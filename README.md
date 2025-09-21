@@ -13,6 +13,7 @@ All the solutions in this repo were integrated using Exercism's [new **syncer** 
 - [Allergies](/solutions/ocaml/allergies)
 - [Anagram](/solutions/ocaml/anagram)
 - [Beer song](/solutions/ocaml/beer-song)
+- [Binary search tree](/solutions/ocaml/binary-search-tree/)
 - [Bob](/solutions/ocaml/bob)
 - [Difference of squares](/solutions/ocaml/difference-of-squares)
 - [Eliuds eggs](/solutions/ocaml/eliuds-eggs)
@@ -30,7 +31,9 @@ All the solutions in this repo were integrated using Exercism's [new **syncer** 
 - [Reverse string](/solutions/ocaml/reverse-string)
 - [Rna transcription](/solutions/ocaml/rna-transcription)
 - [Robot name](/solutions/ocaml/robot-name)
+- [Sieve](/solutions/ocaml/sieve/)
 - [Space age](/solutions/ocaml/space-age)
+- [Square root](/solutions/ocaml/square-root/)
 - [Triangle](/solutions/ocaml/triangle)
 
 > [!WARNING]
