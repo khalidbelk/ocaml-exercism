@@ -13,9 +13,13 @@ All the solutions in this repo were integrated using Exercism's [new **syncer** 
 - [Allergies](/solutions/ocaml/allergies)
 - [Anagram](/solutions/ocaml/anagram)
 - [Beer song](/solutions/ocaml/beer-song)
+- [Binary search](/solutions/ocaml/binary-search/)
 - [Binary search tree](/solutions/ocaml/binary-search-tree/)
 - [Bob](/solutions/ocaml/bob)
+- [Collatz Conjecture](/solutions/ocaml/collatz-conjecture)
+- [Darts](/solutions/ocaml/darts)
 - [Difference of squares](/solutions/ocaml/difference-of-squares)
+- [D&D Character](/solutions/ocaml/dnd-character/)
 - [Eliuds eggs](/solutions/ocaml/eliuds-eggs)
 - [Etl](/solutions/ocaml/etl)
 - [Grade school](/solutions/ocaml/grade-school)
@@ -35,6 +39,7 @@ All the solutions in this repo were integrated using Exercism's [new **syncer** 
 - [Space age](/solutions/ocaml/space-age)
 - [Square root](/solutions/ocaml/square-root/)
 - [Triangle](/solutions/ocaml/triangle)
+- [Two-fer](/solutions/ocaml/two-fer/)
 
 > [!WARNING]
 > These are my personal solutions shared for **educational purposes only**.
